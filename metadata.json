@@ -1,0 +1,8 @@
+{
+  "name": "SmartCalculator",
+  "description": "Calculadora simples e didática com lógica em Python, interface acolhedora em componentes, histórico de resultados e guia visual de tomada de decisão para iniciantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
