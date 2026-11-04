@@ -13,13 +13,13 @@ operações matemáticas básicas.
 
 <br>
 <p align="center">
-  <img alt="imagem do aplicativo StudyFlow" src="src/assets/image-smartcalculator.jpg" width="100%">
+  <img alt="imagem do aplicativo SmartCalculator" src="src/assets/image-smartcalculator.jpg" width="100%">
 </p>
 <br>
 <h2 align="center"><b><a href="#">Veja o Site</a></b></h2>
 <br>
 
-![Static Badge](https://img.shields.io/badge/landing_page-site_studyflow-brown?style=for-the-badge&logo=ghost&logoColor=%2344CC11&labelColor=white&color=44CC11)
+![Static Badge](https://img.shields.io/badge/landing_page-site_smartcalculator-brown?style=for-the-badge&logo=ghost&logoColor=%2344CC11&labelColor=white&color=44CC11)
 <br>
 <br>
 
@@ -41,7 +41,7 @@ operações matemáticas básicas.
 ## 📗 Sobre
 
 <br>
-Foi construida uma aplicação com Inteligência Artificial chamada SmartCalculator! Usando uma ferramenta, o Google AI Studio descobrindo como sair de uma ideia e chegar a uma aplicação 
+Foi construida uma aplicação com Inteligência Artificial chamada SmartCalculator! Usando uma ferramenta, o Google AI Studio e descobrindo como sair de uma ideia e chegar a uma aplicação 
 web funcionando em poucos minutos, usando apenas uma conta Google e prompts bem estruturados.
 <br>
 <br>
